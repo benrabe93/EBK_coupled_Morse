@@ -1,6 +1,7 @@
 # Custom files
 data/
 LightGPR/
+plot_ebk_spectra.py
 plot_ebk_spectra_asym.py
 
 # Byte-compiled / optimized / DLL files
